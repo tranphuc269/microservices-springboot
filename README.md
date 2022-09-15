@@ -2,9 +2,10 @@
 Microservices example using SpringBoot framework, AxonServer, Eureka Server
 # 2. Run
 ***Run Axon Server, install https://developer.axoniq.io/download, to tracking request***
+</br>
 move AxonServer-4.6.3 to project
-cd  to AxonServer-4.6.3
 ```
+cd  to AxonServer-4.6.3
 java -jar axonserver.jar
 ```
 Axonserver running in host:8024
